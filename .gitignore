@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables 
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/pip
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Output files
+output/
+questions_*.txt
+
+# Personal documents 
+*.pdf
+*.txt
+test_documents/
+samples/
+my_documents/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
